@@ -14,7 +14,7 @@ int main()
 	auto lastWindowTime = std::chrono::steady_clock::now();
 	HWND window = NULL;
 
-	printf("Cursor locked inside brawlhalla");
+	printf("Cursor locked inside brawlhalla\n");
 
 	while (true) 
 	{
